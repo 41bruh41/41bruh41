@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, meu nome e bruna  👋
+Estou estudndo no alura 
+Estou me desenvolvendo na linguagem Java Script
+Utilio este espaço para minha organização
 
 <!--
 **41bruh41/41bruh41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
